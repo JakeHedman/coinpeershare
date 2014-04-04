@@ -1,4 +1,6 @@
 coinpeershare
 =============
 
-Script to help me share altcoin peers
+Script to share bitcoin or altcoin peers.
+
+Reformats the output of getpeers to addnode lines.
